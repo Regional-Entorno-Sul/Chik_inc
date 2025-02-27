@@ -25,7 +25,7 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
 
 ![x](/chik_inc_pic100.jpg)  
 
-
+4.Em seguida colocar o arquivo de exportação com os dados de Febre de Chikungunya gerado no SINAN Online 
 
 ![x](/files.jpg)  
 
