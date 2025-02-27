@@ -3,3 +3,4 @@ Procura por inconsistência no resultado de exames de Febre Chikungunya usando a
 
 ## Como funciona?  
 
+![x](/ficha_pic1.jpg)
