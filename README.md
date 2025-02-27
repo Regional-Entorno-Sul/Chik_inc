@@ -11,4 +11,5 @@ A inconsistência aparece quando os resultados são registrados no sistema como 
 
 ![x](/ficha_pic2.jpg)  
 
-Ao final do processamento, os casos encontrados com essa inconsistência 
+Ao final do processamento, os casos encontrados com essa inconsistência são os únicos que ficam no arquivo que contêm as notificações, assim o usuário poderá através do número da notificação e/ou o nome do paciente, acessar o SINAN Online e fazer a devida correção/ajuste do caso com problema.
+
