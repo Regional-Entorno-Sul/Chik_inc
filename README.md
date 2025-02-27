@@ -13,6 +13,6 @@ A inconsistência aparece quando os resultados são registrados no sistema como 
 
 Ao final do processamento, os casos encontrados com essa inconsistência são os únicos que ficam no arquivo que contêm as notificações, assim o usuário poderá através do número da notificação e/ou o nome do paciente, acessar o SINAN Online e fazer a devida correção/ajuste do caso com problema.
 
-![x](/ficha_pic2.jpg)  
+![x](/ficha_pic3.jpg)  
   
   
