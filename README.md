@@ -5,4 +5,8 @@ Procura por inconsistência no resultado de exames de Febre Chikungunya usando a
 
 A ferramenta procura pelos resultados da sorologia IgM e do exame PRNT, ambos relativos ao agravo Chikungunya.
 
-![x](/ficha_pic1.jpg)
+![x](/ficha_pic1.jpg)  
+
+Em seguida filtra esses resultados de modo que ao final do processamento, haverá no arquivo com os casos do agravo, 
+
+
