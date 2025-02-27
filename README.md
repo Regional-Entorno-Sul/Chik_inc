@@ -15,4 +15,5 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
 
 ![x](/ficha_pic3.jpg)  
   
-  
+## Como usar?  
+
