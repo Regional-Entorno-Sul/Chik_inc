@@ -11,4 +11,4 @@ A inconsistência aparece quando os resultados são registrados no sistema como 
 
 ![x](/ficha_pic2.jpg)  
 
-
+Ao final do processamento, os casos encontrados com essa inconsistência 
