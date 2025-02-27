@@ -17,3 +17,8 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
   
 ## Como usar?  
 
+1. Fazer o download da ferramenta na área de Releaes deste repositório;  
+
+2. Decompactar o arquivo;  
+
+3. 
