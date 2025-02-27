@@ -7,6 +7,6 @@ A ferramenta procura pelos resultados da sorologia IgM e do exame PRNT, ambos re
 
 ![x](/ficha_pic1.jpg)  
 
-Em seguida filtra esses resultados de modo que ao final do processamento, haverá no arquivo com os casos do agravo, 
+A inconsistência aparece quando os resultados são registrados no sistema como não reagentes, inconclusivo ou não realizados e o caso é classificado como Febre Chikungunya usando o critério confirmação/descarte.
 
 
