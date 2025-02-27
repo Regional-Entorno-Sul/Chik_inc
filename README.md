@@ -25,7 +25,8 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
 
 ![x](/chik_inc_pic100.jpg)  
 
-4. Em seguida colocar o arquivo de exportação com os dados de Febre de Chikungunya gerado no SINAN Online dentro da pasta "chik_inc". Em seguida, descompacte o arquivo e renomeie-o para "chikon.dbf".  
+4. Em seguida colocar o arquivo de exportação com os dados de Febre de Chikungunya gerado no SINAN Online dentro da pasta "chik_inc". Em seguida, descompacte o arquivo e renomeie-o para "chikon.dbf";  
 
 ![x](/files.jpg)  
 
+5. Em seguida é só rodar o arquivo executável (chik_inc.exe) e aguardar o fim do processamento.  
