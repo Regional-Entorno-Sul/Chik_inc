@@ -21,4 +21,5 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
 
 2. Decompactar o arquivo;  
 
-3. 
+3. Mover a pasta contida no arquivo no disco local C ou unidade local C do PC;  
+
