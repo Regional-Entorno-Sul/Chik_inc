@@ -23,3 +23,5 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
 
 3. Mover a pasta contida no arquivo no disco local C ou unidade local C do PC;  
 
+![x](/chik_inc_pic100.jpg)  
+
