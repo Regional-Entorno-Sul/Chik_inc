@@ -29,7 +29,7 @@ Ao final do processamento, os casos encontrados com essa inconsistência são os
 
 ![x](/files.jpg)  
 
-5. Em seguida é só rodar o arquivo executável (chik_inc.exe) e aguardar o fim do processamento.  
+5. Em seguida é só rodar o arquivo executável (chik_inc.exe) e aguardar o fim do processamento. Ao final, no arquivo "chikon.dbf" só terá os registros com inconsistência no resultados de exames.  
 
 ![x](/chik_inc_102.jpg)  
 
